@@ -1,16 +1,32 @@
 ## Hi there 👋
+# 👋  Soy Dani García
 
-<!--
-**danigarcia077/danigarcia077** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Sobre mí
+Soy un desarrollador apasionado por la tecnología y la programación. Me gusta aprender nuevas tecnologías y compartir conocimientos con la comunidad.
 
-Here are some ideas to get you started:
+## 🌱 Aprendiendo...
+- JavaScript  y arquitecturas de software.
+- Bases de datos MYSQL en profundidad.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👯 Busco colaborar en...
+- Proyectos open-source de desarrollo web y automatización.
+- Equipos que necesiten un desarrollador con experiencia en frontend y backend.
+
+## 🤔 Busco ayuda con...
+- Aprender aprofundidad javascript
+- Mejores prácticas en desarrollo de software.
+- Optimización de rendimiento en aplicaciones web.
+
+## 💬 Pregúntame sobre...
+- Desarrollo con JavaScript, Node.js y .
+- Integración de APIs y arquitecturas REST.
+
+## 📫 Cómo contactarme:
+- ✉️ Email: daniggvv@gmail.com
+- 💼 LinkedIn: www.linkedin.com/in/daniela-garcia-valencia-697442278
+
+## ⚡ Dato curioso:
+Me encanta resolver desafíos, aprender cada dia mas. 🚀
+
+---
+✨ ¡Gracias por visitar mi perfil! ✨
