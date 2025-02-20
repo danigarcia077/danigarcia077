@@ -8,10 +8,6 @@ Soy un desarrollador apasionado por la tecnología y la programación. Me gusta 
 - JavaScript  y arquitecturas de software.
 - Bases de datos MYSQL en profundidad.
 
-## 👯 Busco colaborar en...
-- Proyectos open-source de desarrollo web y automatización.
-- Equipos que necesiten un desarrollador con experiencia en frontend y backend.
-
 ## 🤔 Busco ayuda con...
 - Aprender aprofundidad javascript
 - Mejores prácticas en desarrollo de software.
