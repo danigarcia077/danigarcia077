@@ -5,6 +5,8 @@
 Soy un INGENIERO de sistemas y telecomunicaciones. Mis principales cualidades son el RESPETO por las ideas de terceros, el ser PROACTIVO ante cualquier dificultad,me gusta trabajkar en   EQUIPO, el LIDERAZGO ante momentos adversos, y por ultimo y no menos importante siempre APASIONADO por APRENDER nuevas tecnologías y nuevos CONOCIMIENTOS.
 
 ## 🌱 Aplicaciones que mas uso
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)}" />
+<img src="[BadgeURLHere](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)" />
 https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white
 https://img.shields.io/badge/%3C/%3E%20htmx-3D72D7?style=for-the-badge&logo=mysl&logoColor=white
 https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
